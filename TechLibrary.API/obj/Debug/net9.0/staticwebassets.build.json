@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vXCx6/PlgLHTArMKcNU5xq/h2FJ5mGiRJgB2hkc7ts4=",
+  "Source": "TechLibrary.API",
+  "BasePath": "_content/TechLibrary.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

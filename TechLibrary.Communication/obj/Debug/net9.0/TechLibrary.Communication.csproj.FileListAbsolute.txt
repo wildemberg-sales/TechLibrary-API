@@ -1,0 +1,11 @@
+C:\Users\Will Asus\Desktop\TechLibrary\TechLibrary.Communication\bin\Debug\net9.0\TechLibrary.Communication.deps.json
+C:\Users\Will Asus\Desktop\TechLibrary\TechLibrary.Communication\bin\Debug\net9.0\TechLibrary.Communication.dll
+C:\Users\Will Asus\Desktop\TechLibrary\TechLibrary.Communication\bin\Debug\net9.0\TechLibrary.Communication.pdb
+C:\Users\Will Asus\Desktop\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will Asus\Desktop\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.AssemblyInfoInputs.cache
+C:\Users\Will Asus\Desktop\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.AssemblyInfo.cs
+C:\Users\Will Asus\Desktop\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.csproj.CoreCompileInputs.cache
+C:\Users\Will Asus\Desktop\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.dll
+C:\Users\Will Asus\Desktop\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\refint\TechLibrary.Communication.dll
+C:\Users\Will Asus\Desktop\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\TechLibrary.Communication.pdb
+C:\Users\Will Asus\Desktop\TechLibrary\TechLibrary.Communication\obj\Debug\net9.0\ref\TechLibrary.Communication.dll
